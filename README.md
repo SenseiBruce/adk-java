@@ -117,6 +117,8 @@ requests, documentation improvements, or code contributions, please see our
 This project is licensed under the Apache 2.0 License - see the
 [LICENSE](LICENSE) file for details.
 
+See also [CHANGELOG.md](CHANGELOG.md) and [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Preview
 
 This feature is subject to the "Pre-GA Offerings Terms" in the General Service

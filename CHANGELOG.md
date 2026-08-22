@@ -1,5 +1,12 @@
 # Changelog
 
+## [Unreleased]
+
+### Added
+
+- `.editorconfig`, Dependabot (`maven` + `github-actions`), and pull request template
+- README links to CHANGELOG and CONTRIBUTING
+
 ## [0.3.0](https://github.com/google/adk-java/compare/v0.2.0...v0.3.0) (2025-09-17)
 
 
