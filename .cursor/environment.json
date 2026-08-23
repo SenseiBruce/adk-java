@@ -1,0 +1,4 @@
+{
+  "name": "Google ADK for Java",
+  "install": "cd /agent/repos/adk-java && ./mvnw -B -ntp -DskipTests clean install"
+}
